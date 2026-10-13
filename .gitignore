@@ -1,0 +1,17 @@
+# Compiled C++ files
+*.exe
+*.out
+*.o
+*.obj
+
+# Local library records
+books.txt
+members.txt
+borrow_records.txt
+
+# VS Code settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
